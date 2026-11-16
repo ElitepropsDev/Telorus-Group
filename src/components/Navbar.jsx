@@ -29,7 +29,7 @@ function Navbar() {
         >
           <span className="font-heading text-xl font-extrabold tracking-[0.12em] text-navy sm:text-2xl">
             EXCEL
-          </span>
+          
 
           <span className="mt-1 text-[9px] font-bold tracking-[0.32em] text-teal sm:text-[10px]">
             GROUP
